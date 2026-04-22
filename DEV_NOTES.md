@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Cleaned up old debug logs
 - Added CONTRIBUTING.md stub
+
+## 2026-04-22
+- Checked for memory leaks in long-running path
+- Fixed minor edge case in input handling
